@@ -58,9 +58,8 @@
 
 ```
 ├── README.md
-├── 信用评分卡.ipynb      # 完整建模流程
-├── cs-training.csv        # 训练数据
-└── cs-test.csv            # 测试数据
+├── GiveMeSomeCredit.ipynb      # 完整建模流程           
+└── cs-training.csv             # 测试数据/训练数据
 ```
 
 ## 运行方式
@@ -73,4 +72,4 @@ pip install pandas numpy matplotlib scikit-learn jupyterlab
 jupyter lab
 ```
 
-打开 `信用评分卡.ipynb`，按顺序运行所有 Cell 即可。
+打开 `GiveMeSomeCredit.ipynb`，按顺序运行所有 Cell 即可。
